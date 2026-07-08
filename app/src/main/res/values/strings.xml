@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">As-Sabil</string>
+    <string name="nav_quran">Quran</string>
+    <string name="nav_hadith">Hadith</string>
+    <string name="nav_kibla">Kibla</string>
+    <string name="settings">Paramètres</string>
+    <string name="search_hint">Rechercher une sourate…</string>
+    <string name="last_read">Dernière lecture</string>
+    <string name="tasbih_title">Compteur Tasbih</string>
+    <string name="reset">Réinitialiser</string>
+    <string name="complete">Complété ✓</string>
+    <string name="bismillah">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</string>
+</resources>
