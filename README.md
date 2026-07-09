@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Assabil Banner](.github/assets/banner.png)
+![Assabil Banner](.github/assets/assabil_icon.png)
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9-blue.svg?logo=kotlin)](https://kotlinlang.org)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-Material_3-4285F4.svg?logo=android)](https://developer.android.com/jetpack/compose)
@@ -52,9 +52,7 @@ Les utilisateurs musulmans ont souvent besoin de télécharger plusieurs applica
 
 | Prières | Paramètres |
 | :---: | :---: |
-| ![Prayer](.github/assets/screenshots/PLACE_SCREENSHOT_PRAYER.png) | ![Settings](.github/assets/screenshots/PLACE_SCREENSHOT_SETTINGS.png) |
-
-> 🎥 **Démonstration vidéo** : [PLACE_VIDEO_LINK]
+| ![Adkar](.github/assets/screenshots/PLACE_SCREENSHOT_PRAYER.png) | ![Quran_list](.github/assets/screenshots/PLACE_SCREENSHOT_SETTINGS.png) |
 
 ---
 
